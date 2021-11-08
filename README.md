@@ -2,4 +2,4 @@
 
 This is a test repository
 
-We are using this as a testing and sandboc repo for AgZero Github training. 
+We are using this as a testing and sandbox repo for AgZero Github training. 
